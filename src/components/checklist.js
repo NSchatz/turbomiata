@@ -1,6 +1,6 @@
 import React from 'react';
  
-function Contact (){
+function CheckList (){
  return <address>
             You can find us here:<br />
             GeeksforGeeks<br />
